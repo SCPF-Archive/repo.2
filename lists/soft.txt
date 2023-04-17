@@ -1,5 +1,7 @@
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-https://easylist-downloads.adblockplus.org/advblock.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
+https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
