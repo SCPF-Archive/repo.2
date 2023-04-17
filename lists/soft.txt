@@ -112,9 +112,6 @@ https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english
 # Pete Lowe's AD List
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
 
-# Placeholder Hider With No Generic Hiding
-https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
-
 # Online Malicious URL (New)
 https://urlhaus.abuse.ch/downloads/text/
 
