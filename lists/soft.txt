@@ -1,9 +1,122 @@
+# FILTERS AGGRESSIVE #
+# CREDITS TO THE FILTERLIST URL's #
+# FEEL FREE TO USE AS THIS IS A PUBLIC USE #
+
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+# ADGUARD FILTERS #
+
+
+# Adguard Base Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-https://easylist.to/easylist/easylist.txt
-https://easylist.to/easylist/easyprivacy.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+
+# Adguard Mobile ADS Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+
+# Adguard Tracking Protection Filter (New)
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+
+# Adguard URL Tracking Filter (New)
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+
+# Adguard Social Media Filter (New)
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
+
+# Adguard Annoyance Filter (New)
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+# EASYLIST FILTERS #
+
+
+# Easylist Base Filter
+https://easylist.to/easylist/easylist.txt
+
+# Easy Privacy
+https://easylist.to/easylist/easyprivacy.txt
+
+# Easylist Cookie List (New)
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+# FANBOY'S FILTERS #
+
+
+# Fanboy's Social Blocking List (New)
+https://easylist.to/easylist/fanboy-social.txt
+
+# Fanboy's Annoyance List (New)
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+# UBLOCK ORIGIN FILTERS #
+
+
+# Ublock Origin (Filters)
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+
+# Ublock Origin (Unbreak)
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
+
+# Ublock Origin (Quick Fixes)
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/quick-fixes.txt
+
+# Ublock Origin (Badlist)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt
+
+# Ublock Origin (Badware)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+
+# Ublock Origin (Resource Abuse)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
+# Ublock Origin (2020 Filters)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+
+# Ublock Origin (2021 Filters)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+
+# Ublock Origin (2022 Filters)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
+
+# Ublock Origin (Legacy)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt
+
+# Ublock Origin (Privacy)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+
+# Ublock Origin (Annoyance) (New)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+# RUSSIAN FILTERS #
+
+
+# RU AD List (Easylist)
+https://easylist-downloads.adblockplus.org/advblock.txt
+
+# RU AD List (Adguard)
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+# ABP FILTER #
+
+
+# ABP Anti CV List
 https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
+
+#————————————————————————————————————————————————————————————————————————————————————————————————————————#
+# MISCELLANEOUS FILTERS #
+
+
+# Pete Lowe's AD List
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
+
+# Placeholder Hider With No Generic Hiding
+https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
+
+# Online Malicious URL (New)
+https://urlhaus.abuse.ch/downloads/text/
+
+# AdBlock Warning Removal (New)
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
