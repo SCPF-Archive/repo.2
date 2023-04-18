@@ -1,4 +1,4 @@
-# FILTERS AGGRESSIVE #
+# BROMITE FILTERS #
 # CREDITS TO THE FILTERLIST URL's #
 # FEEL FREE TO USE AS THIS IS A PUBLIC USE #
 
@@ -10,43 +10,38 @@
 # Adguard Base Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 
-# Adguard Mobile ADS Filter
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-
-# Adguard Tracking Protection Filter (New)
+# Adguard Tracking Protection Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
 
-# Adguard URL Tracking Filter (New)
+# Adguard URL Tracking Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 
-# Adguard Social Media Filter (New)
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
-
-# Adguard Annoyance Filter (New)
+# Adguard Annoyances Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
 
-#————————————————————————————————————————————————————————————————————————————————————————————————————————#
-# EASYLIST FILTERS #
+# Adguard Russian Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
 
+# Adguard German Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
 
-# Easylist Base Filter
-https://easylist.to/easylist/easylist.txt
+# Adguard French Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
 
-# Easy Privacy
-https://easylist.to/easylist/easyprivacy.txt
+# Adguard Japanese Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
 
-# Easylist Cookie List (New)
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+# Adguard Dutch Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
 
-#————————————————————————————————————————————————————————————————————————————————————————————————————————#
-# FANBOY'S FILTERS #
+# Adguard Spanish Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
 
+# Adguard Turkish Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
 
-# Fanboy's Social Blocking List (New)
-https://easylist.to/easylist/fanboy-social.txt
-
-# Fanboy's Annoyance List (New)
-https://secure.fanboy.co.nz/fanboy-annoyance.txt
+# Adguard Chinese Filter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
 # UBLOCK ORIGIN FILTERS #
@@ -87,16 +82,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.tx
 
 # Ublock Origin (Annoyance) (New)
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
-
-#————————————————————————————————————————————————————————————————————————————————————————————————————————#
-# RUSSIAN FILTERS #
-
-
-# RU AD List (Easylist)
-https://easylist-downloads.adblockplus.org/advblock.txt
-
-# RU AD List (Adguard)
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
 # ABP FILTER #
