@@ -4,44 +4,102 @@
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
-# ADGUARD FILTERS #
+# ADGUARD/EASYLIST FILTERS #
 
 
-# Adguard Base Filter
+# Base Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+https://easylist.to/easylist/easylist.txt
 
 # Adguard Tracking Protection Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
+https://easylist.to/easylist/easyprivacy.txt
 
 # Adguard URL Tracking Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 
-# Adguard Annoyances Filter
+# Annoyances Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
 
-# Adguard Russian Filter
+# Russian Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+https://easylist-downloads.adblockplus.org/advblock.txt
 
-# Adguard German Filter
+# German Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt
+https://easylist.to/easylistgermany/easylistgermany.txt
 
-# Adguard French Filter
+# French Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt
+https://easylist-downloads.adblockplus.org/liste_fr.txt
 
 # Adguard Japanese Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
 
-# Adguard Dutch Filter
+# Dutch Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
+https://easylist-downloads.adblockplus.org/easylistdutch.txt
 
-# Adguard Spanish Filter
+# Spanish Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
+https://easylist-downloads.adblockplus.org/easylistspanish.txt
 
 # Adguard Turkish Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt
 
-# Adguard Chinese Filter
+# Chinese Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+
+# Easylist Italy Filter
+https://easylist-downloads.adblockplus.org/easylistitaly.txt
+
+# Easylist Bulgarian Filter
+http://stanev.org/abp/adblock_bg.txt
+
+# Easylist Indonesian Filter
+https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt
+
+# Easylist Arabic Filter
+https://easylist-downloads.adblockplus.org/Liste_AR.txt
+
+# Easylist Czech and Slovak Filter
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
+
+# Easylist Latvian Filter
+https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt
+
+# Easylist Hebrew Filter
+https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+
+# Easylist Nordic Filter
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt
+
+# Easylist Lithuania Filter
+https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
+
+# Easylist Portuguese Filter
+https://easylist-downloads.adblockplus.org/easylistportuguese.txt
+
+# Easylist Thailand Filter
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+
+# Easylist Polish Filter
+https://easylist-downloads.adblockplus.org/easylistpolish.txt
+
+# Easylist Indian Filter
+https://easylist-downloads.adblockplus.org/indianlist.txt
+
+# Easylist Korean Filter
+https://easylist-downloads.adblockplus.org/koreanlist.txt
+
+# Easylist Romanian Filter
+https://www.zoso.ro/pages/rolist.txt
+
+# AdBlock Warning Removal
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
 # UBLOCK ORIGIN FILTERS #
@@ -80,7 +138,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt
 # Ublock Origin (Privacy)
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 
-# Ublock Origin (Annoyance) (New)
+# Ublock Origin (Annoyance)
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
@@ -97,8 +155,5 @@ https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english
 # Pete Lowe's AD List
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
 
-# Online Malicious URL (New)
+# Online Malicious URL
 https://urlhaus.abuse.ch/downloads/text/
-
-# AdBlock Warning Removal (New)
-https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
