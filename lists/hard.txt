@@ -6,6 +6,7 @@
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
 # ADGUARD/EASYLIST FILTERS #
 
+https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt
 
 # Base Filter
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
