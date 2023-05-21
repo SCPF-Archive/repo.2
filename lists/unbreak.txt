@@ -4,5 +4,5 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://easylist.to/easylist/easylist.txt
 https://easylist-downloads.adblockplus.org/advblock.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
-https://blokada.org/blocklists/ddgtrackerradar/stand
+https://easylist.to/easylist/easyprivacy.txt
 https://urlhaus.abuse.ch/downloads/text/
