@@ -1,1 +1,3 @@
 https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
