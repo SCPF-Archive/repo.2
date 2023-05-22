@@ -6,3 +6,5 @@ https://easylist-downloads.adblockplus.org/advblock.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 https://easylist.to/easylist/easyprivacy.txt
 https://urlhaus.abuse.ch/downloads/text/
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-distracting.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
